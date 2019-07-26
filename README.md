@@ -5,4 +5,4 @@ Pictured is a cardioid created from the times table of the number 2.
 ![TableGen2](https://i.imgur.com/AGCg6tY.png)
 
 Here is the peculiar number 89.  Seems to create some type of optical illusion.
-![TableGen89](https://i.imgur.com/dnFsMes.png)
+![TableGen89](master\examples\TableGen89.jpg)
