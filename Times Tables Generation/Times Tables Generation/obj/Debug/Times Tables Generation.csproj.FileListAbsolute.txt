@@ -1,0 +1,6 @@
+A:\Second Desktop\C# Projects\Times Tables Generation\Times Tables Generation\bin\Debug\Times Tables Generation.exe.config
+A:\Second Desktop\C# Projects\Times Tables Generation\Times Tables Generation\bin\Debug\Times Tables Generation.exe
+A:\Second Desktop\C# Projects\Times Tables Generation\Times Tables Generation\bin\Debug\Times Tables Generation.pdb
+A:\Second Desktop\C# Projects\Times Tables Generation\Times Tables Generation\obj\Debug\Times Tables Generation.csprojResolveAssemblyReference.cache
+A:\Second Desktop\C# Projects\Times Tables Generation\Times Tables Generation\obj\Debug\Times Tables Generation.exe
+A:\Second Desktop\C# Projects\Times Tables Generation\Times Tables Generation\obj\Debug\Times Tables Generation.pdb
